@@ -1,0 +1,10 @@
+BasedOnStyle: Google
+BreakBeforeBraces: Allman
+IndentWidth: 4
+ColumnLimit: 120
+AllowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+IndentCaseLabels: true
+NamespaceIndentation: None
+FixNamespaceComments: false

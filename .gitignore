@@ -1,0 +1,44 @@
+# Build Outputs
+build/
+cmake-build-*/
+dist/
+bin/
+lib/
+obj/
+*.o
+*.so
+*.dex
+*.jar
+
+# CMake & Ninja Artifacts
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+.ninja_deps
+.ninja_log
+build.ninja
+
+# IDE & Editor Configurations
+.idea/
+.vscode/
+*.iml
+.cxx/
+local.properties
+.gradle/
+*.swp
+*~
+*.bak
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# Test & Debug artifacts
+.shots/
+*.png
+*.log
+*.tmp
+
+# Local Agent instructions
+AGENTS.md
